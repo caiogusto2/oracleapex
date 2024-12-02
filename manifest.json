@@ -1468,9 +1468,9 @@
             "description": "Aplicação demonstração de DB Convergente",
             "author": "Caio Oliveira",
             "version": "1.0.0",
-            "icon": "https://example.com/apex/apps/custom_app/app-icon.svg",
-            "url": "https://example.com/apex/apps/custom_app",
-            "source": "https://example.com/apex/apps/custom_app/custom_app.sql",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/app-icon-512.png",
+            "url": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp",
+            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/marinha_ddls.sql",
             "zip": ""
         }
     ],
