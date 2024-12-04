@@ -1467,7 +1467,7 @@
             "name": "Marinha",
             "description": "Aplicação demonstração de DB Convergente",
             "author": "Caio Oliveira",
-            "version": "1.0.0",
+            "version": "24.1.0",
             "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/app-icon-512.png",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/marinhaapp",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/marinha_ddls.sql",
