@@ -1471,7 +1471,7 @@
             "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/app-icon-512.png",
             "url": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/marinha_ddls.sql",
-            "zip": ""
+            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/f101_components.zip"
         }
     ],
     "plugins": [
