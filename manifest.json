@@ -9,7 +9,18 @@
             "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/evento/app-icon-512.png",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/evento",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/evento/export_completo.sql",
-            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/evento/export_completo.zip",
-        }
+            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/evento/export_completo.zip"
+        },
+        {
+            "internalName": "Dataset Marinha - Oracle DB Convergente",
+            "name": "Dataset Marinha - Oracle DB Convergente",
+            "description": "Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai. Oracle Machine Learning (OML), Spatial and Graphs, Vector Search, JSON on Oracle DB, etc",
+            "author": "Caio Oliveira",
+            "version": "24.1.0",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/app-icon-512.png",
+            "url": "https://github.com/caiogusto2/oracleapex/tree/main/marinhaapp",
+            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/marinha_completo.sql",
+            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/marinha_completo.zip"
+        }        
     ]
 }
