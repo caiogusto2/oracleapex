@@ -10,16 +10,6 @@
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/evento",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/evento/export_completo.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/evento/export_completo.zip",
-            "i18n": {
-                "en": {
-                    "name": "Controle Inscrição Hands On",
-                    "description": "teste ingles"
-                },
-                "pt-br": {
-                    "name": "Controle Inscrição Hands On",
-                    "description": "teste portugues"
-                }
-            }
         }
     ]
 }
