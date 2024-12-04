@@ -1,15 +1,25 @@
 {
     "customApps": [
         {
-            "internalName": "evento",
-            "name": "evento",
-            "description": "Aplicação Custom Apps",
+            "internalName": "Controle Inscrição Hands On",
+            "name": "Controle Inscrição Hands On",
+            "description": "Aplicação Desenvolvida para Controle de Inscrições Hands On em Eventos de Marketing",
             "author": "Caio Oliveira",
             "version": "24.1.0",
             "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/evento/app-icon-512.png",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/evento",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/evento/export_completo.sql",
-            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/evento/export_completo.zip"
+            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/evento/export_completo.zip",
+            "i18n": {
+                "en": {
+                    "name": "Controle Inscrição Hands On",
+                    "description": "teste ingles"
+                },
+                "pt-br": {
+                    "name": "Controle Inscrição Hands On",
+                    "description": "teste portugues"
+                }
+            }
         }
     ]
 }
