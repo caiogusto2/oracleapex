@@ -1469,7 +1469,7 @@
             "author": "Caio Oliveira",
             "version": "1.0.0",
             "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/app-icon-512.png",
-            "url": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp",
+            "url": "https://github.com/caiogusto2/oracleapex/tree/main/marinhaapp",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/marinha_ddls.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/marinhaapp/f101_components.zip"
         }
