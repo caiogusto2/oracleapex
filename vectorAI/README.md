@@ -11,7 +11,7 @@ Caio Oliveira
 ## **Procedimento de Instalação**
 
 ### 1. Criar um Banco de Dados Autonomous
-Configure um Banco de Dados Autonomous no Oracle Cloud.
+Configure um Banco de Dados Autonomous no Oracle Cloud com a **versão 23ai** (região de GRU por exemplo).
 
 ### 2. Criar Usuário `demo` e Conceder Permissões
 Conecte-se ao **SQL Developer Web** e execute os comandos abaixo:
