@@ -17,10 +17,10 @@
             "description": "Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai. Vector Search em dados não estruturados e uso de GenAI para RAG Completo",
             "author": "Caio Oliveira",
             "version": "24.1.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/vectorai/23ai.png",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/vectorAI/23ai.png",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/vectorai",
-            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/vectorai/vector.sql",
-            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/vectorai/vector.zip"
+            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/vectorAI/vector.sql",
+            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/vectorAI/vector.zip"
         }        
     ]
 }
