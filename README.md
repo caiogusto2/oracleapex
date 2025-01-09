@@ -1,18 +1,3 @@
-# Repositório Projetos APEX
-
-#### _App: Controle de Inscrição Hands On_
-**Descrição:** Aplicação Desenvolvida para Controle de Inscrições Hands On em Eventos de Marketing  
-
-**Autor:** Caio Oliveira  
-Link: [https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS](https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS)
-
-#### _App: Dataset Público Marinha - Oracle DB Convergente_
-**Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai. Oracle Machine Learning (OML), Spatial and Graphs, Vector Search, JSON on Oracle DB, etc
-
-**Autor:** Caio Oliveira  
-Link: [https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha](https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha)
-
----
 
 ## **Procedimento de Instalação**
 
@@ -54,3 +39,19 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 
 ### 5. Configurar Web Credential
 No APEX, vá para "Workspace Utilities" e configure uma web credential chamada apex_ai_cred com suas credenciais OCI.
+
+---
+
+# Repositório Projetos APEX
+
+#### _App: Controle de Inscrição Hands On_
+**Descrição:** Aplicação Desenvolvida para Controle de Inscrições Hands On em Eventos de Marketing  
+
+**Autor:** Caio Oliveira  
+Link: [https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS](https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS)
+
+#### _App: Dataset Público Marinha - Oracle DB Convergente_
+**Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai. Oracle Machine Learning (OML), Spatial and Graphs, Vector Search, JSON on Oracle DB, etc
+
+**Autor:** Caio Oliveira  
+Link: [https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha](https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha)
