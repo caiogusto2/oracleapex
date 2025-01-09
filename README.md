@@ -10,3 +10,9 @@ Link: [https://github.com/caiogusto2/oracleapex/tree/main/evento](https://github
 
 **Autor:** Caio Oliveira  
 Link: [https://github.com/caiogusto2/oracleapex/tree/main/marinhaapp](https://github.com/caiogusto2/oracleapex/tree/main/marinhaapp)
+
+#### _App: VectorAI_
+**Descrição:** Aplicação desenvolvida para demonstrar os recursos e funcionalidades do Banco de Dados Oracle 23ai, incluindo Vector Search em dados não estruturados e uso de GenAI para um processo completo de Recuperação de Respostas Assistida (RAG).
+
+**Autor:** Caio Oliveira  
+Link: [https://github.com/caiogusto2/oracleapex/tree/main/vectorAI](https://github.com/caiogusto2/oracleapex/tree/main/vectorAI)
