@@ -22,6 +22,7 @@ GRANT dwrole TO demo;
 GRANT unlimited tablespace TO demo;
 GRANT READ, WRITE ON DIRECTORY data_pump_dir TO demo;
 GRANT EXECUTE ON DBMS_CLOUD TO demo;
+GRANT CREATE PROPERTY GRAPH TO demo;
 ```
 
 ### 3. Configurar o APEX
