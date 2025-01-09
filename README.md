@@ -32,6 +32,7 @@ END;
 * Conecte-se ao Oracle APEX e crie um workspace utilizando o usuário demo configurado anteriormente.
 * Configure a instância APEX para acessar o arquivo manifest.json no seguinte link:
 https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest.json
+* Habilitar upload de arquivos em páginas públicas: no workspace internal ir em manage instance > security > Allow Public File Upload = YES
 
 ### 4. Deploy da Aplicação
 * Acesse a Galeria de Aplicativos em "Custom Apps".
