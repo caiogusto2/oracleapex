@@ -17,6 +17,13 @@ Configure um Banco de Dados Autonomous no Oracle Cloud com a **versão 23ai** (r
 Conecte-se ao **SQL Developer Web** e execute os comandos abaixo:
 
 ```sql
+CREATE USER demo IDENTIFIED BY "<sua_senha>";
+GRANT dwrole TO demo;
+GRANT unlimited tablespace TO demo;
+GRANT READ, WRITE ON DIRECTORY data_pump_dir TO demo;
+GRANT EXECUTE ON DBMS_CLOUD TO demo;
+GRANT CREATE PROPERTY GRAPH TO demo;
+
 BEGIN
   DBMS_NETWORK_ACL_ADMIN.APPEND_HOST_ACE(
     host => '*',
@@ -26,12 +33,6 @@ BEGIN
 END;
 / 
 
-CREATE USER demo IDENTIFIED BY "<sua_senha>";
-GRANT dwrole TO demo;
-GRANT unlimited tablespace TO demo;
-GRANT READ, WRITE ON DIRECTORY data_pump_dir TO demo;
-GRANT EXECUTE ON DBMS_CLOUD TO demo;
-GRANT CREATE PROPERTY GRAPH TO demo;
 ```
 
 ### 3. Configurar o APEX
