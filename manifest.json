@@ -12,17 +12,6 @@
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/ControleInscricaoWS/export_completo.zip"
         },
         {
-            "internalName": "Oracle 23ai - Vector DB",
-            "name": "Oracle 23ai - Vector DB",
-            "description": "Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai. Vector Search em dados não estruturados e uso de GenAI para RAG Completo",
-            "author": "Caio Oliveira",
-            "version": "24.1.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23ai_vectorsearch/app-icon-512.png",
-            "url": "https://github.com/caiogusto2/oracleapex/tree/main/23ai_vectorsearch",
-            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23ai_vectorsearch/vector.sql",
-            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23ai_vectorsearch/vector.zip"
-        },
-        {
             "internalName": "Dataset Marinha - Oracle DB Convergente",
             "name": "Dataset Marinha - Oracle DB Convergente",
             "description": "Aplicação Desenvolvida para demonstração de recursos e features de convergencia do Banco de Dados Oracle 23ai. Utilizando um dataset público da marinha fazemos a demostração de uso do OML4SQL, APEX, VectorSearch, Grafos e Spatial",

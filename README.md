@@ -12,18 +12,12 @@ Link: [https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS](h
 **Autor:** Caio Oliveira  
 Link: [https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha](https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha)
 
-#### _App: VectorAI_
-**Descrição:** Aplicação desenvolvida para demonstrar os recursos e funcionalidades do Banco de Dados Oracle 23ai, incluindo Vector Search em dados não estruturados e uso de GenAI para um processo completo de Recuperação de Respostas Assistida (RAG).
-
-**Autor:** Caio Oliveira  
-Link: [https://github.com/caiogusto2/oracleapex/tree/main/23ai_vectorsearch](https://github.com/caiogusto2/oracleapex/tree/main/23ai_vectorsearch)
-
 ---
 
 ## **Procedimento de Instalação**
 
 ### As demonstrações desse repositório foram todas feiras em autonomous database em OCI, porém podem ser facilmente adaptadas para ambientes rodando instalações Oracle APEX fora de bancos de dados autonomous
- 
+
 ### 1. Criar um Banco de Dados Autonomous
 Configure um Banco de Dados Autonomous no Oracle Cloud com a **versão 23ai** (região de GRU por exemplo).
 
