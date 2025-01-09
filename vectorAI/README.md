@@ -17,6 +17,15 @@ Configure um Banco de Dados Autonomous no Oracle Cloud com a **versão 23ai** (r
 Conecte-se ao **SQL Developer Web** e execute os comandos abaixo:
 
 ```sql
+BEGIN
+  DBMS_NETWORK_ACL_ADMIN.APPEND_HOST_ACE(
+    host => '*',
+    ace => xs$ace_type(privilege_list => xs$name_list('connect'),
+                       principal_name => 'DEMO',
+                       principal_type => xs_acl.ptype_db));
+END;
+/ 
+
 CREATE USER demo IDENTIFIED BY "<sua_senha>";
 GRANT dwrole TO demo;
 GRANT unlimited tablespace TO demo;
