@@ -4,7 +4,7 @@
 As demonstrações desse repositório foram todas feiras em autonomous database em OCI, porém podem ser facilmente adaptadas para ambientes rodando instalações Oracle APEX fora de bancos de dados autonomous
 
 ### 1. Criar um Banco de Dados Autonomous
-Configure um Banco de Dados Autonomous no Oracle Cloud com a **versão 23ai** (região de GRU por exemplo).
+Crie e configure um banco de dados autonomous no oracle cloud infrastructure (OCI) na **versão 23ai** (região de GRU por exemplo).
 
 ### 2. Criar Usuário `demo` e Conceder Permissões
 Conecte-se ao **SQL Developer Web** e execute os comandos abaixo:
@@ -29,7 +29,7 @@ END;
 ```
 
 ### 3. Configurar o APEX
-* Conecte-se ao Oracle APEX e crie um workspace utilizando o usuário demo configurado anteriormente.
+* Conecte-se ao oracle APEX e crie um workspace utilizando o usuário demo configurado anteriormente.
 * Configure a instância APEX para acessar o arquivo manifest.json no seguinte link:
 https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest.json
 * Habilitar upload de arquivos em páginas públicas: no workspace internal ir em manage instance > security > Allow Public File Upload = YES
