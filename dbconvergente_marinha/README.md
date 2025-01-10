@@ -14,5 +14,7 @@
 ### **Como Utilizar essa Aplicação**
 
 A aplicação contém 4 guias na aba de navegação:
-* Home: Tela contendo alguns exemplos de como utilizar o banco de dados oracle como solução convergente. Abaixo a descrição de cada uma das sessões dessa página
-  * Distribuição Bases: 
+1. Home: Sessão contendo alguns exemplos de como utilizar o banco de dados oracle como solução convergente. Abaixo a descrição de cada uma das sessões dessa página
+  * Distribuição Bases: Sessão demonstrando a funcionalidade de mapas do APEX, apresentando as diferentes bases navais espalhadas pelo Brasil de acordo com a evolução dos anos
+  * Embarcações Ano a Ano e Predição Usando OML: Sessão contendo um exemplo de agregação da quantidade total de embarcações da Marinha e uma predição utilizando OML4SQL do tipo time series
+  * Embarcações 2023: 
