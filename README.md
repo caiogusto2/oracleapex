@@ -1,7 +1,7 @@
 
 ## **Procedimento de Instalação**
 
-### As demonstrações desse repositório foram todas feiras em autonomous database em OCI, porém podem ser facilmente adaptadas para ambientes rodando instalações Oracle APEX fora de bancos de dados autonomous
+As demonstrações desse repositório foram todas feiras em autonomous database em OCI, porém podem ser facilmente adaptadas para ambientes rodando instalações Oracle APEX fora de bancos de dados autonomous
 
 ### 1. Criar um Banco de Dados Autonomous
 Configure um Banco de Dados Autonomous no Oracle Cloud com a **versão 23ai** (região de GRU por exemplo).
