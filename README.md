@@ -36,10 +36,7 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 
 ### 4. Deploy da Aplicação
 * Acesse a Galeria de Aplicativos em "Custom Apps".
-* Realize o deploy da aplicação Oracle 23ai - Vector DB.
-
-### 5. Configurar Web Credential
-No APEX, vá para "Workspace Utilities" e configure uma web credential chamada apex_ai_cred com suas credenciais OCI.
+* Realize o deploy da aplicação desejada e visite os links dos repositórios abaixo para mais informações
 
 ---
 
