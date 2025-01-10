@@ -13,3 +13,6 @@
 
 ### **Como Utilizar essa Aplicação**
 
+A aplicação contém 4 guias na aba de navegação:
+* Home: Tela contendo alguns exemplos de como utilizar o banco de dados oracle como solução convergente. Abaixo a descrição de cada uma das sessões dessa página
+** Distribuição Bases: 
