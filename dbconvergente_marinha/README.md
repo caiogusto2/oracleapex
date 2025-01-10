@@ -27,7 +27,7 @@ A aplicação contém 4 guias na aba de navegação:
 
 **3. Assistente AI:** Sessão contendo uma área de pesquisa para consulta dos documentos registrados na aba Arquivos e Normas. A utilização é bem intuitiva, inicialmente você faz o upload dos arquivos na aba Arquivos e Normas, seleciona a fonte de dados de sua consulta, escreve sua pergunta e clica em pesquisar. Essa sessão irá executar um RAG completo, fazendo a consulta vetorial no banco Oracle 23ai, enviando as perguntas + chunks para o genai do OCI e por fim retornando o output apresentado
 
-**4. Arquivos e Normas:** Sessão onde faremos o upload de arquivos texto que serão utilizados na sessão Assistente AI, basta clicar em upload, colocar o nome do arquivo, selecionar um arquivo local, definir a configuração JSON para os chunks e clicar em create. Abaixo um exemplo de JSON que pode ser utilizado para grande parte dos documentos
+**4. Arquivos e Normas:** Sessão onde faremos o upload de arquivos texto que serão utilizados na sessão Assistente AI, basta clicar em upload, colocar o nome do arquivo, selecionar um arquivo local, definir a configuração JSON para os chunks e clicar em create. Abaixo um exemplo de JSON que pode ser utilizado para grande parte dos documentos. Dúvidas e outras configurações, consultar documentação vigente
 ```json
 {
     "by" : "words",
