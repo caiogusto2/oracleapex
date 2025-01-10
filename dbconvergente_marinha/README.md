@@ -7,9 +7,9 @@
 
 ### **Procedimento Adicionais de Instalação**
 
-**Configurar Web Credential**
-No APEX, vá para "Workspace Utilities" e configure uma web credential chamada apex_ai_cred com suas credenciais OCI.
+**Configurar Web Credential**: No APEX, vá para "Workspace Utilities" e configure uma web credential chamada apex_ai_cred com suas credenciais OCI.
 
 ---
 
 ### **Como Utilizar essa Aplicação**
+
