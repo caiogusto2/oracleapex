@@ -21,6 +21,17 @@
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/dbconvergente_marinha/marinha.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/dbconvergente_marinha/marinha.zip"
+        },
+        {
+            "internalName": "Oracle 23ai - Vector Search",
+            "name": "Oracle 23ai - Vector Search",
+            "description": "Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai sem a parte de convergência. Aplicação desenvolvida para rodar no APEX 24.2",
+            "author": "Caio Oliveira",
+            "version": "24.1.0",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorsearch/23ai.png",
+            "url": "https://github.com/caiogusto2/oracleapex/tree/main/23aivectorsearch",
+            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorsearch/23aivector.sql",
+            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorsearch/23aivector.zip"
         }                
     ]
 }
