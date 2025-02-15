@@ -54,6 +54,12 @@ Link: [https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS](h
 **Autor:** Caio Oliveira  
 Link: [https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha](https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha)
 
+#### _App: Dataset Público PRF/Bradesco - Oracle DB Convergente_
+**Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai. Oracle Machine Learning (OML), Spatial and Graphs, Vector Search, JSON on Oracle DB, etc
+
+**Autor:** Caio Oliveira  
+Link: [https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_bradesco](https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_bradesco)
+
 #### _App: Oracle 23ai Vector Search_
 **Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai sem a parte de convergência. `Aplicação desenvolvida para rodar no APEX 24.2` 
 
