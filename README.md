@@ -31,7 +31,9 @@ END;
 ### 3. Configurar a Instância APEX
 * Conecte-se ao oracle APEX no workspace internal e crie um workspace utilizando o schema demo configurado anteriormente.
 * Configure a instância APEX para acessar o arquivo manifest.json no seguinte link (caminho - manage instance > instance settings > Application Gallery > colocar a url abaixo da url já existente):
+```
 https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest.json
+```
 * Habilitar upload de arquivos em páginas públicas: no workspace internal ir em manage instance > security > Allow Public File Upload = YES
 
 ### 4. Deploy da Aplicação
