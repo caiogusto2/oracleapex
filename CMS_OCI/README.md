@@ -14,7 +14,7 @@ https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<
 
 ```
 
-**Criação de credencial de autenticação com Object Storage OCI**: A aplicação de CMS utilizará um Autentication Token para comunicação com o OCI. Crie um Autentication Token na GUI OCI e execute o seguinte comando no sql developer
+**Criação de credencial de autenticação com Object Storage OCI**: A aplicação de CMS utilizará um Autentication Token para comunicação com o OCI. Crie um Autentication Token na GUI OCI e execute o seguinte comando no sql workshop > sql commands no Oracle APEX
 
 ```
 begin
@@ -27,6 +27,10 @@ end;
 /
 
 ```
+
+**Substituição de valores de variáveis na aplicação**: Após a instalação da aplicação via custom apps/gallery; Clique no app builder > edit application definition e siga para a sessão substitutions. Faça a alteração da variável LOCATION_URI para a string coletada na etapa Criação de Bucket - Object Storage OCI
+
+**Habilitar APIs - Importe ORDS APIs**: Caso tenha interesse em habilitar as REST API's da aplicação, siga para SQL Workshop > Restful Data Services; Clique em Register Schema with ORDS (sem instalar exemplos); Clique no botão import e faça o upload do arquivo CMS-ORDS.sql
 
 ---
 
