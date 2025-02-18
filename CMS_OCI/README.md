@@ -7,11 +7,23 @@
 
 ### **Procedimento Adicionais de Instalação**
 
-**Criação de Bucket - Object Storage OCI**: Na sua conta OCI faça a criação de um bucket standard na região de sua escolha. Dentro desse bucket é onde os dados irão residir
+**Criação de Bucket - Object Storage OCI**: Na sua conta OCI faça a criação de um bucket standard na região de sua escolha. Dentro desse bucket é onde os dados irão residir. Nesse bucket faça o upload de um arquivo qualquer e colote a URL gerada. Ela estará da seguinte maneira: https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/
 
+**Criação de credencial de autenticação com Object Storage OCI**: A aplicação de CMS utilizará um Autentication Token para comunicação com o OCI. Crie um Autentication Token na GUI OCI e execute o seguinte comando no sql developer
 
+```
+grant execute on dbms_cloud to demo;
 
-**Criação de credencial de autenticação com Object Storage OCI**:
+begin
+  dbms_cloud.create_credential (
+    credential_name => 'CREDENCIALOS',
+    username        => '<SEU_USUARIO_OCI>',
+    password        => '<AUTH_TOKEN_USUARIO_OCI>'
+  ) ;
+end;
+/
+
+```
 
 ---
 
