@@ -1,5 +1,5 @@
-## **App: Dataset Público Marinha - Oracle DB Convergente**
-**Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai. Oracle Machine Learning (OML), Spatial and Graphs, Vector Search, JSON on Oracle DB, etc
+## **App: CMS - OCI**
+**Descrição:** Aplicação desenvolvida para exemplificar o uso do APEX + Object storage como ferramenta de controle e gestão de arquivos.
 
 **Autor:** Caio Oliveira  
 
@@ -7,7 +7,9 @@
 
 ### **Procedimento Adicionais de Instalação**
 
-**Configurar Web Credential**: No APEX, vá para "Workspace Utilities" e configure a web credential chamada apex_ai_cred com suas credenciais OCI.
+**Criação de Bucket - Object Storage OCI**: Na sua conta OCI faça a criação de um bucket standard na região de sua escolha. Dentro desse bucket é onde os dados irão residir
+
+**Criação de credencial de autenticação com Object Storage OCI**:
 
 ---
 
