@@ -61,3 +61,9 @@ Link: [https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha]
 
 **Autor:** Caio Oliveira  
 Link: [https://github.com/caiogusto2/oracleapex/tree/main/23aivectorsearch](https://github.com/caiogusto2/oracleapex/tree/main/23aivectorsearch)
+
+#### _App: CMS - OCI_
+**Descrição:** Aplicação desenvolvida para exemplificar o uso do APEX + Object storage como ferramenta de controle e gestão de arquivos. 
+
+**Autor:** Caio Oliveira  
+Link: [https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI](https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI)
