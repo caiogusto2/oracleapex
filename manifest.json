@@ -23,17 +23,6 @@
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/dbconvergente_marinha/marinha.zip"
         },
         {
-            "internalName": "Dataset PRF/Bradesco - Oracle DB Convergente",
-            "name": "Dataset PRF/Bradesco - Oracle DB Convergente",
-            "description": "Aplicação Desenvolvida para demonstração de recursos e features de convergencia do Banco de Dados Oracle 23ai. Utilizando um dataset público da prf fazemos a demostração de uso do OML4SQL, APEX, VectorSearch, Grafos e Spatial",
-            "author": "Caio Oliveira",
-            "version": "24.1.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/dbconvergente_bradesco/app-icon-512.png",
-            "url": "https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_bradesco",
-            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/dbconvergente_bradesco/dbconvergente.sql",
-            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/dbconvergente_bradesco/dbconvergente.zip"
-        },
-        {
             "internalName": "Oracle 23ai - Vector Search",
             "name": "Oracle 23ai - Vector Search",
             "description": "Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai sem a parte de convergência. Aplicação desenvolvida para rodar no APEX 24.2",
