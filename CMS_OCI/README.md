@@ -9,6 +9,8 @@
 
 **Criação de Bucket - Object Storage OCI**: Na sua conta OCI faça a criação de um bucket standard na região de sua escolha. Dentro desse bucket é onde os dados irão residir
 
+
+
 **Criação de credencial de autenticação com Object Storage OCI**:
 
 ---
