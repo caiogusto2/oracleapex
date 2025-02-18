@@ -12,8 +12,6 @@
 **Criação de credencial de autenticação com Object Storage OCI**: A aplicação de CMS utilizará um Autentication Token para comunicação com o OCI. Crie um Autentication Token na GUI OCI e execute o seguinte comando no sql developer
 
 ```
-grant execute on dbms_cloud to demo;
-
 begin
   dbms_cloud.create_credential (
     credential_name => 'CREDENCIALOS',
