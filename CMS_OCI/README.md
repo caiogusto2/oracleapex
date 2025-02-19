@@ -74,7 +74,7 @@ end;
 
 A aplicação contém 2 guias na aba de navegação:
 
-**1. Upload Workloads:** Essa guia tem o objetivo de listar os arquivos csv que foram enviados ao ambiente cloud, existe um botão para download do template .csv correto a ser utilizado na ferramenta e por fim um botão para start do fluxo de upload de arquivo. 
+**1. Upload Workloads:** Essa guia tem o objetivo de listar os arquivos csv que foram enviados ao ambiente cloud, existe um botão para download do <a href="https://github.com/caiogusto2/oracleapex/blob/649978538c0017653a41c917251edae16075d844/CMS_OCI/template.csv" target="_blank">template.csv</a> correto a ser utilizado na ferramenta e por fim um botão para start do fluxo de upload de arquivo. 
 
 A aplicação foi inicialmente concebida para upload de arquivos do tipo csv com um formato específico de colunas
 * **CPF**
