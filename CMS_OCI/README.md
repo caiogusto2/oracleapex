@@ -77,14 +77,16 @@ curl -X GET   "https://<URL_ADB>/ords/demo/cms_oci/recebimento"   -H "Content-Ty
 
 API's disponíveis para consumo:
 * **GET /recebimento**: API para listagem de todos os objetos contidos no bucket
-  
-  **Host**: https://<URL_ADB>/ords/demo/cms_oci/recebimento
-  **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage. Ex. https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/
 
-* **Validação se o arquivo é do tipo csv**
-* **Validação se o arquivo contém cabeçalho**
-* **validação se o cabeçalho contém as colunas necessárias**
-* **validação na quantidade de colunas**
+  **Host**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento`
+
+  **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
+  Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
+
+  * **Validação se o arquivo é do tipo CSV**
+  * **Validação se o arquivo contém cabeçalho**
+  * **Validação se o cabeçalho contém as colunas necessárias**
+  * **Validação na quantidade de colunas**
 
 
 
