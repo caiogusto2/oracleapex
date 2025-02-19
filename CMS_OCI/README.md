@@ -78,34 +78,28 @@ curl -X GET   "https://<URL_ADB>/ords/demo/cms_oci/recebimento"   -H "Content-Ty
 API's disponíveis para consumo:
 * **GET /recebimento**: API para listagem de todos os objetos contidos no bucket
 
-  **Host**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento`
+  **Endpoint**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento`
 
   **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
   Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
-
-
 
 * **GET /recebimento/:file_name**: API para download do arquivo especificado
 
-  **Host**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
+  **Endpoint**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
 
   **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
   Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
-
-
 
 * **DELETE /recebimento/:file_name**: API para remoção do arquivo especificado
 
-  **Host**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
+  **Endpoint**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
 
   **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
   Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
 
-
-
 * **POST /recebimento/:file_name**: API para upload do arquivo especificado
 
-  **Host**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
+  **Endpoint**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
 
   **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
   Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
