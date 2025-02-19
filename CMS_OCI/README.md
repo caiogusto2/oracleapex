@@ -77,6 +77,7 @@ curl -X GET   "https://<URL_ADB>/ords/demo/cms_oci/recebimento"   -H "Content-Ty
 
 API's disponíveis para consumo:
 * **GET /recebimento**: API para listagem de todos os objetos contidos no bucket
+  
   **Host**: https://<URL_ADB>/ords/demo/cms_oci/recebimento
   **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage. Ex. https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/
 
