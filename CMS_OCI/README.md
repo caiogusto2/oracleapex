@@ -26,13 +26,10 @@ https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<
 
 ![cms_imagem04](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI/imagens/cms_img04.png)
 
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 **2) Criação de credencial de autenticação com Object Storage OCI**: A aplicação de CMS utilizará um Autentication Token para comunicação com o OCI. Crie um Autentication Token na GUI OCI e execute o seguinte comando no sql workshop > sql commands no Oracle APEX
 
