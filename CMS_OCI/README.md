@@ -55,9 +55,9 @@ end;
 
 **3) Substituição de valores de variáveis na aplicação**: Após a instalação da aplicação via custom apps/gallery; Clique no app builder > edit application definition e siga para a sessão substitutions. Faça a alteração da variável LOCATION_URI para a string coletada na etapa Criação de Bucket - Object Storage OCI
 
-![cms_imagem06](https://github.com/caiogusto2/oracleapex/blob/0ff2eb1e883197e77ea4a03c56aef333829d28d9/CMS_OCI/imagens/cms_img06.png)
+![cms_imagem07](https://github.com/caiogusto2/oracleapex/blob/0ff2eb1e883197e77ea4a03c56aef333829d28d9/CMS_OCI/imagens/cms_img06.png)
 
-![cms_imagem07](https://github.com/caiogusto2/oracleapex/blob/0ff2eb1e883197e77ea4a03c56aef333829d28d9/CMS_OCI/imagens/cms_img07.png)
+![cms_imagem08](https://github.com/caiogusto2/oracleapex/blob/0ff2eb1e883197e77ea4a03c56aef333829d28d9/CMS_OCI/imagens/cms_img07.png)
 
 <br>
 <br>
@@ -65,6 +65,8 @@ end;
 <br>
 
 **4) Habilitar APIs - Importe ORDS APIs**: Caso tenha interesse em habilitar as REST API's da aplicação, siga para SQL Workshop > Restful Data Services; Clique em Register Schema with ORDS (sem instalar exemplos); Clique no botão import e faça o upload do arquivo <a href="https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/CMS_OCI/ords_import.sql" target="_blank">Baixar ords_import.sql</a>.
+
+![cms_imagem09](https://github.com/caiogusto2/oracleapex/blob/0ff2eb1e883197e77ea4a03c56aef333829d28d9/CMS_OCI/imagens/cms_img07.png)
 
 ---
 
