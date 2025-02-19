@@ -13,9 +13,6 @@
 
 ![cms_imagem02](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI/imagens/cms_img02.png)
 
-![cms_imagem03](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI/imagens/cms_img03.png)
-
-![cms_imagem04](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI/imagens/cms_img04.png)
 
 Nesse bucket faça o upload de um arquivo qualquer e colete a URL gerada. Ela estará no seguinte formato: 
 ```
@@ -23,6 +20,12 @@ Nesse bucket faça o upload de um arquivo qualquer e colete a URL gerada. Ela es
 https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/
 
 ```
+
+
+![cms_imagem03](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI/imagens/cms_img03.png)
+
+![cms_imagem04](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI/imagens/cms_img04.png)
+
 
 **Criação de credencial de autenticação com Object Storage OCI**: A aplicação de CMS utilizará um Autentication Token para comunicação com o OCI. Crie um Autentication Token na GUI OCI e execute o seguinte comando no sql workshop > sql commands no Oracle APEX
 
