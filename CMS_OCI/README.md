@@ -62,4 +62,15 @@ As quais são submetidas a algumas validações:
 
 Uma vez que o upload do arquivo tenha sido concluido, temos a listagem do mesmo na tela e os botões de download e delete apresentados
 
-**2. API Keys:** A aplicação de CMS desenvolvida pode ser manipulada pela GUI da interface 1 ou até mesmo por API, essa guia tem o objetivo de criar OAuth Clients para uso das APIs que estão protegidas. O usuário clica em criar nova e um formulário será aberto. Preenchendo do mesmo temos a criação de um Client ID e Client Secret a serem utilizados com as APIs para autenticação
+**2. API Keys:** A aplicação de CMS desenvolvida pode ser manipulada pela GUI da interface 1 ou até mesmo por API, essa guia tem o objetivo de criar OAuth Clients para uso das APIs que estão protegidas. O usuário clica em criar nova e um formulário será aberto. Preenchendo os campos temos a criação de um Client ID e Client Secret a serem utilizados com as APIs para autenticação
+
+Exemplo de Utilização
+```
+-- Chamada solicitando Token de autenticação
+curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credentials" \
+https://<URL_ADB>/ords/demo/oauth/token
+
+-- Execução da API com token do request anterior
+curl -X GET   "https://<URL_ADB>/ords/demo/cms_oci/recebimento"   -H "Content-Type: application/json" -d {} -H "Authorization: Bearer <TOKEN>"
+
+```
