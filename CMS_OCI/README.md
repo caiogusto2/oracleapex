@@ -66,13 +66,13 @@ Uma vez que o upload do arquivo tenha sido concluido, temos a listagem do mesmo 
 
 Exemplo de Utilização
 ```
+
 -- Chamada solicitando Token de autenticação
 curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credentials" \
 https://<URL_ADB>/ords/demo/oauth/token
 
 -- Execução da API com token do request anterior
 curl -X GET   "https://<URL_ADB>/ords/demo/cms_oci/recebimento" -H "object_storage_url: <URL_OS>"  -H "Content-Type: application/json"   -H "Authorization: Bearer <TOKEN>"
-
 
 ```
 
@@ -84,12 +84,38 @@ API's disponíveis para consumo:
   **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
   Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
 
+  **Exemplo de Utilização**
+
+```
+  
+  -- Chamada solicitando Token de autenticação
+  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credentials" \
+  https://<URL_ADB>/ords/demo/oauth/token
+  
+  -- Execução da API com token do request anterior
+  curl -X GET "https://<URL_ADB>/ords/demo/cms_oci/recebimento" -H "object_storage_url: <URL_OS>" -H "Content-Type: application/json" -H "Authorization: Bearer <TOKEN>"
+
+```
+
 * **GET /recebimento/:file_name**: API para download do arquivo especificado
 
   **Endpoint**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
 
   **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
   Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
+
+  **Exemplo de Utilização**
+
+```
+  
+  -- Chamada solicitando Token de autenticação
+  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credentials" \
+  https://<URL_ADB>/ords/demo/oauth/token
+  
+  -- Execução da API com token do request anterior
+  curl -X GET "https://<URL_ADB>/ords/demo/cms_oci/recebimento/<NOME_ARQUIVO>" -H "object_storage_url: <URL_OS>" -H "Content-Type: application/json" -H "Authorization: Bearer <TOKEN>"
+
+```
 
 * **DELETE /recebimento/:file_name**: API para remoção do arquivo especificado
 
@@ -98,9 +124,35 @@ API's disponíveis para consumo:
   **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
   Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
 
+  **Exemplo de Utilização**
+
+```
+  
+  -- Chamada solicitando Token de autenticação
+  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credentials" \
+  https://<URL_ADB>/ords/demo/oauth/token
+  
+  -- Execução da API com token do request anterior
+  curl -X DELETE "https://<URL_ADB>/ords/demo/cms_oci/recebimento/<NOME_ARQUIVO>" -H "object_storage_url: <URL_OS>" -H "Content-Type: application/json" -d {} -H "Authorization: Bearer <TOKEN>"
+
+```
+
 * **POST /recebimento/:file_name**: API para upload do arquivo especificado
 
   **Endpoint**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
 
   **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
   Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
+
+  **Exemplo de Utilização**
+
+```
+  
+  -- Chamada solicitando Token de autenticação
+  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credentials" \
+  https://<URL_ADB>/ords/demo/oauth/token
+  
+  -- Execução da API com token do request anterior
+  curl -X POST "https://<URL_ADB>/ords/demo/cms_oci/recebimento/<NOME_ARQUIVO>" -H "object_storage_url: <URL_OS>" -H "Content-Type: text/csv" --data-binary @./<NOME_ARQUIVO> -H "Authorization: Bearer <TOKEN>"
+
+```
