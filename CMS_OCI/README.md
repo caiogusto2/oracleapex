@@ -83,33 +83,23 @@ API's disponíveis para consumo:
   **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
   Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
 
-  * **Validação se o arquivo é do tipo CSV**
-  * **Validação se o arquivo contém cabeçalho**
-  * **Validação se o cabeçalho contém as colunas necessárias**
-  * **Validação na quantidade de colunas**
+* **GET /recebimento/:file_name**: API para download do arquivo especificado
 
+  **Host**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
 
+  **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
+  Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
 
-SELECT '1' as id,
-       'GET' AS metodo, 
-       'https://g1cde62092a80c9-pjcqa0kl14jpxbpr.adb.sa-vinhedo-1.oraclecloudapps.com/ords/demo/cms_oci/recebimento' AS endpoint, 
-       'object_storage_url: informar a url do object storage ex.' AS parametros,
-       'API para listagem de todos os objetos contidos no bucket' AS descricao
-UNION ALL
-SELECT '2' as id,
-       'DELETE', 
-       'https://g1cde62092a80c9-pjcqa0kl14jpxbpr.adb.sa-vinhedo-1.oraclecloudapps.com/ords/demo/cms_oci/recebimento/:file_name', 
-       'object_storage_url: informar a url do object storage ex.' || CHAR(10) ||  'file_name: informar o nome do arquivo que deseja deletar', 
-       'API para delete de arquivo no bucket'
-UNION ALL
-SELECT '3' as id,
-       'GET', 
-       'https://g1cde62092a80c9-pjcqa0kl14jpxbpr.adb.sa-vinhedo-1.oraclecloudapps.com/ords/demo/cms_oci/recebimento/:file_name', 
-       'object_storage_url: informar a url do object storage ex.' || CHAR(10) || 'file_name: informar o nome do arquivo que deseja fazer o download',
-       'API para download de arquivo do bucket'
-UNION ALL
-SELECT '4' as id,
-       'POST', 
-       'https://g1cde62092a80c9-pjcqa0kl14jpxbpr.adb.sa-vinhedo-1.oraclecloudapps.com/ords/demo/cms_oci/recebimento/:file_name', 
-       'object_storage_url: informar a url do object storage ex.' || CHAR(10) || 'file_name: informar o nome do arquivo que deseja fazer o upload', 
-       'API para upload de arquivo no bucket';
+* **DELETE /recebimento/:file_name**: API para remoção do arquivo especificado
+
+  **Host**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
+
+  **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
+  Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
+
+* **POST /recebimento/:file_name**: API para upload do arquivo especificado
+
+  **Host**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento/:file_name`
+
+  **Parâmetros - object_storage_url**: Informar a URL do bucket do object storage.  
+  Ex. `https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<SEUBUCKET>/o/`
