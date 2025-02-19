@@ -9,7 +9,7 @@
 
 **Criação de Bucket - Object Storage OCI**: Na sua conta OCI faça a criação de um bucket standard na região de sua escolha. Dentro desse bucket é onde os dados irão residir. 
 
-!(https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI/imagens/cms_img01.png)
+![Descrição da Imagem](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI/imagens/cms_img01.png)
 
 Nesse bucket faça o upload de um arquivo qualquer e colete a URL gerada. Ela estará no seguinte formato: 
 ```
