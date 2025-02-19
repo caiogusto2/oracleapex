@@ -52,6 +52,7 @@ A aplicação foi inicialmente concebida para upload de arquivos do tipo csv com
 * **CEP**
 * **TELEFONE**
 * **EMAIL**
+
 As quais são submetidas a algumas validações:
 * **Validação se o arquivo esta sem linhas**
 * **Validação se o arquivo é do tipo csv**
