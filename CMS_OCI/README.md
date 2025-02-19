@@ -78,11 +78,14 @@ API's disponíveis para consumo:
 ```
   
   -- Chamada solicitando Token de autenticação
-  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credentials" \
-  https://<URL_ADB>/ords/demo/oauth/token
+  curl  -i -k --user <CLIENT_ID>:<CLIENT_SECRET> \
+        --data "grant_type=client_credentials" \
+        https://<URL_ADB>/ords/demo/oauth/token
   
   -- Execução da API com token do request anterior
-  curl -X GET "https://<URL_ADB>/ords/demo/cms_oci/recebimento" -H "object_storage_url: <URL_OS>" -H "Content-Type: application/json" -H "Authorization: Bearer <TOKEN>"
+  curl  -X GET "https://<URL_ADB>/ords/demo/cms_oci/recebimento" \
+        -H "object_storage_url: <URL_OS>" -H "Content-Type: application/json" \
+        -H "Authorization: Bearer <TOKEN>"
 
 ```
 
@@ -98,11 +101,14 @@ API's disponíveis para consumo:
 ```
   
   -- Chamada solicitando Token de autenticação
-  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credentials" \
-  https://<URL_ADB>/ords/demo/oauth/token
+  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> \
+        --data "grant_type=client_credentials" \
+        https://<URL_ADB>/ords/demo/oauth/token
   
   -- Execução da API com token do request anterior
-  curl -X GET "https://<URL_ADB>/ords/demo/cms_oci/recebimento/<NOME_ARQUIVO>" -H "object_storage_url: <URL_OS>" -H "Content-Type: application/json" -H "Authorization: Bearer <TOKEN>"
+  curl -X GET "https://<URL_ADB>/ords/demo/cms_oci/recebimento/<NOME_ARQUIVO>" \
+        -H "object_storage_url: <URL_OS>" -H "Content-Type: application/json" \
+        -H "Authorization: Bearer <TOKEN>"
 
 ```
 
@@ -118,11 +124,14 @@ API's disponíveis para consumo:
 ```
   
   -- Chamada solicitando Token de autenticação
-  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credentials" \
-  https://<URL_ADB>/ords/demo/oauth/token
+  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> \
+        --data "grant_type=client_credentials" \
+        https://<URL_ADB>/ords/demo/oauth/token
   
   -- Execução da API com token do request anterior
-  curl -X DELETE "https://<URL_ADB>/ords/demo/cms_oci/recebimento/<NOME_ARQUIVO>" -H "object_storage_url: <URL_OS>" -H "Content-Type: application/json" -d {} -H "Authorization: Bearer <TOKEN>"
+  curl -X DELETE "https://<URL_ADB>/ords/demo/cms_oci/recebimento/<NOME_ARQUIVO>" \
+        -H "object_storage_url: <URL_OS>" -H "Content-Type: application/json" \
+        -d {} -H "Authorization: Bearer <TOKEN>"
 
 ```
 
@@ -138,10 +147,13 @@ API's disponíveis para consumo:
 ```
   
   -- Chamada solicitando Token de autenticação
-  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credentials" \
-  https://<URL_ADB>/ords/demo/oauth/token
+  curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> \
+        --data "grant_type=client_credentials" \
+        https://<URL_ADB>/ords/demo/oauth/token
   
   -- Execução da API com token do request anterior
-  curl -X POST "https://<URL_ADB>/ords/demo/cms_oci/recebimento/<NOME_ARQUIVO>" -H "object_storage_url: <URL_OS>" -H "Content-Type: text/csv" --data-binary @./<NOME_ARQUIVO> -H "Authorization: Bearer <TOKEN>"
+  curl -X POST "https://<URL_ADB>/ords/demo/cms_oci/recebimento/<NOME_ARQUIVO>" \
+        -H "object_storage_url: <URL_OS>" -H "Content-Type: text/csv" \
+        --data-binary @./<NOME_ARQUIVO> -H "Authorization: Bearer <TOKEN>"
 
 ```
