@@ -48,10 +48,19 @@ end;
 /
 
 ```
+<br>
+<br>
+<br>
+<br>
 
-**Substituição de valores de variáveis na aplicação**: Após a instalação da aplicação via custom apps/gallery; Clique no app builder > edit application definition e siga para a sessão substitutions. Faça a alteração da variável LOCATION_URI para a string coletada na etapa Criação de Bucket - Object Storage OCI
+**3) Substituição de valores de variáveis na aplicação**: Após a instalação da aplicação via custom apps/gallery; Clique no app builder > edit application definition e siga para a sessão substitutions. Faça a alteração da variável LOCATION_URI para a string coletada na etapa Criação de Bucket - Object Storage OCI
 
-**Habilitar APIs - Importe ORDS APIs**: Caso tenha interesse em habilitar as REST API's da aplicação, siga para SQL Workshop > Restful Data Services; Clique em Register Schema with ORDS (sem instalar exemplos); Clique no botão import e faça o upload do arquivo <a href="https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/CMS_OCI/ords_import.sql" target="_blank">Baixar ords_import.sql</a>.
+<br>
+<br>
+<br>
+<br>
+
+**4) Habilitar APIs - Importe ORDS APIs**: Caso tenha interesse em habilitar as REST API's da aplicação, siga para SQL Workshop > Restful Data Services; Clique em Register Schema with ORDS (sem instalar exemplos); Clique no botão import e faça o upload do arquivo <a href="https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/CMS_OCI/ords_import.sql" target="_blank">Baixar ords_import.sql</a>.
 
 ---
 
