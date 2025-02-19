@@ -67,7 +67,6 @@ Uma vez que o upload do arquivo tenha sido concluido, temos a listagem do mesmo 
 
 API's disponíveis para consumo:
 * **GET /recebimento**: API para listagem de todos os objetos contidos no bucket
-* <span style="background-color: brown; color: white; padding: 2px 5px; border-radius: 3px;">**GET**</span> /recebimento: API para listagem de todos os objetos contidos no bucket
 
   **Endpoint**: `https://<URL_ADB>/ords/demo/cms_oci/recebimento`
 
