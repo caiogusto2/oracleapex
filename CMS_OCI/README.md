@@ -71,7 +71,8 @@ curl -i -k --user <CLIENT_ID>:<CLIENT_SECRET> --data "grant_type=client_credenti
 https://<URL_ADB>/ords/demo/oauth/token
 
 -- Execução da API com token do request anterior
-curl -X GET   "https://<URL_ADB>/ords/demo/cms_oci/recebimento"   -H "Content-Type: application/json" -d {} -H "Authorization: Bearer <TOKEN>"
+curl -X GET   "https://<URL_ADB>/ords/demo/cms_oci/recebimento" -H "object_storage_url: <URL_OS>"  -H "Content-Type: application/json"   -H "Authorization: Bearer <TOKEN>"
+
 
 ```
 
