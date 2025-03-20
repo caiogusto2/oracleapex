@@ -1,7 +1,7 @@
 ## **App: SOS APP**
 **Descrição:** Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergenciais online. A aplicação também exemplifica o self checkin para aplicações apex
 
-**Autor:** Caio Oliveira  
+**Autor:** Caio Oliveira, Isabelle Anjos, Julia Sant'Anna e Nikolly Amancio  
 
 ---
 
