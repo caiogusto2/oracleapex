@@ -43,6 +43,17 @@
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/CMS_OCI/cms_oci.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/CMS_OCI/cms_oci.zip"
+        },
+        {
+            "internalName": "SOS APP",
+            "name": "SOS APP",
+            "description": "Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergneicias online. A aplicação também exemplifica o self checkin para aplicações apex",
+            "author": "Caio Oliveira",
+            "version": "24.1.0",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/sos/sos.png",
+            "url": "https://github.com/caiogusto2/oracleapex/tree/main/sos",
+            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/sos/sos.sql",
+            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/sos/sos.zip"
         }                
     ]
 }
