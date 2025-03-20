@@ -1,5 +1,5 @@
-## **App: Oracle 23ai Vector Search**
-**Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai sem a parte de convergência. `Aplicação desenvolvida para rodar no APEX 24.2`
+## **App: SOS APP**
+**Descrição:** Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergenciais online. A aplicação também exemplifica o self checkin para aplicações apex
 
 **Autor:** Caio Oliveira  
 

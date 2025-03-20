@@ -47,7 +47,7 @@
         {
             "internalName": "SOS APP",
             "name": "SOS APP",
-            "description": "Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergneicias online. A aplicação também exemplifica o self checkin para aplicações apex",
+            "description": "Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergenciais online. A aplicação também exemplifica o self checkin para aplicações apex",
             "author": "Caio Oliveira",
             "version": "24.1.0",
             "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/sos/sos.png",

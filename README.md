@@ -67,3 +67,9 @@ Link: [https://github.com/caiogusto2/oracleapex/tree/main/23aivectorsearch](http
 
 **Autor:** Caio Oliveira  
 Link: [https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI](https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI)
+
+#### _App: SOS APP_
+**Descrição:** Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergenciais online. A aplicação também exemplifica o self checkin para aplicações apex 
+
+**Autor:** Caio Oliveira  
+Link: [https://github.com/caiogusto2/oracleapex/tree/main/sos](https://github.com/caiogusto2/oracleapex/tree/main/sos)
