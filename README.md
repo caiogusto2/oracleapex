@@ -73,3 +73,9 @@ Link: [https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI](https://githu
 
 **Autor:** Caio Oliveira, Isabelle Anjos, Julia Sant'Anna e Nikolly Amancio
 Link: [https://github.com/caiogusto2/oracleapex/tree/main/sos](https://github.com/caiogusto2/oracleapex/tree/main/sos)
+
+#### _App: Your Viagens_
+**Descrição:** Aplicação desenvolvida para estudo de um caso real aplicado de RAG para uma agência de viagem. Diferentes métodos de consulta vetorial foram testados, o projeto mostra as estratégias e discussão sobre o assunto 
+
+**Autor:** Caio Oliveira
+Link: [https://github.com/caiogusto2/oracleapex/tree/main/your_viagens](https://github.com/caiogusto2/oracleapex/tree/main/your_viagens)
