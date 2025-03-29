@@ -1,0 +1,276 @@
+{
+    "viagem": {
+      "participantes": ["Tais", "Caio", "Fatima", "Thiago"],
+      "periodo": "Abril/Maio 2025",
+      "destino": "Itália",
+      "cidades": ["Veneza", "Verona", "Bolonha", "Firenze", "Toscana", "Roma"],
+      "roteiro": {
+        "pre_viagem": {
+          "documentos": [
+            "Passaporte",
+            "Seguro Viagem",
+            "Reservas e passagens",
+            "Comprovante oficial da vacina em inglês e português"
+          ],
+          "eletronicos": ["Adaptador universal (220v)"],
+          "seguranca": [
+            "Fotografar documentos e enviar por email/whatsapp",
+            "Cuidado com furtos em transportes públicos",
+            "Evitar golpes comuns em turistas"
+          ],
+          "apps": [
+            "Google Tradutor",
+            "Google Maps",
+            "Waze"
+          ]
+        },
+        "diario": [
+          {
+            "data": "17/04/2025",
+            "cidade": "São Paulo - Veneza",
+            "atividades": [
+              "Voo às 14:10 - Chegar ao aeroporto às 11:10"
+            ],
+            "restaurantes": [],
+            "transporte": "Voo internacional"
+          },
+          {
+            "data": "18/04/2025",
+            "cidade": "Veneza",
+            "atividades": [
+              "Chegada prevista às 11:15",
+              "Passeio de Vaporetto (Linha 1)",
+              "Visita à Piazza San Marco",
+              "Ponte Rialto",
+              "Passeio de gôndola"
+            ],
+            "restaurantes": [
+              "Osteria Alle Testiere",
+              "Trattoria Due Forni",
+              "Tratoria della Madona",
+              "L'Osteria Santa Marina"
+            ],
+            "transporte": "Vaporetto"
+          },
+          {
+            "data": "19/04/2025",
+            "cidade": "Veneza",
+            "atividades": [
+              "Visita às ilhas de Murano e Burano",
+              "Exploração do bairro Dorsoduro",
+              "Ponte dos Suspiros"
+            ],
+            "restaurantes": [
+              "Vino Vino",
+              "Al Chianti",
+              "Ristorante Sempione"
+            ],
+            "transporte": "Vaporetto (linha 12 para Burano)"
+          },
+          {
+            "data": "20/04/2025",
+            "cidade": "Veneza",
+            "atividades": [
+              "Ponte Rialto",
+              "Mercado Rialto",
+              "Exploração do bairro Canareggio"
+            ],
+            "restaurantes": [],
+            "transporte": "Vaporetto"
+          },
+          {
+            "data": "21/04/2025",
+            "cidade": "Veneza - Verona",
+            "atividades": [
+              "Trem às 10:10 (chegada 11:38)",
+              "Piazza Brà e Arena de Verona",
+              "Casa de Giulietta",
+              "Via Mazzini",
+              "Piazza delle Erbe"
+            ],
+            "restaurantes": [
+              "Antica Osteria al Duomo",
+              "La Taverna di Via Stella"
+            ],
+            "transporte": "Trem (Veneza S. Lucia → Verona)"
+          },
+          {
+            "data": "22/04/2025",
+            "cidade": "Verona - Bolonha",
+            "atividades": [
+              "Trem às 12:26 (chegada ~14:00)",
+              "Piazza Maggiore",
+              "Torre degli Asinelli",
+              "Via Rizzoli",
+              "Quadrilatero"
+            ],
+            "restaurantes": [
+              "Osteria dell'Orsa",
+              "Trattoria di Via Serra"
+            ],
+            "transporte": "Trem (Verona → Bolonha)"
+          },
+          {
+            "data": "23/04/2025",
+            "cidade": "Bolonha",
+            "atividades": [
+              "Santuario di Madonna di San Luca",
+              "Passeio pelos porticos",
+              "Archiginnasio"
+            ],
+            "restaurantes": [
+              "Ristorante Da Cesari",
+              "Osteria Broccaindosso",
+              "La Sorbetteria Castiglione (gelato)"
+            ],
+            "transporte": "Caminhada/Transporte público"
+          },
+          {
+            "data": "24/04/2025",
+            "cidade": "Bolonha - Firenze",
+            "atividades": [
+              "Trem às 11:27 (chegada ~12:00)",
+              "Piazzale Michelangelo",
+              "Igreja San Miniato al Monte",
+              "Ponte Vecchio",
+              "Piazza della Signoria"
+            ],
+            "restaurantes": [
+              "All'Antico Vinaio",
+              "Trattoria ZaZa"
+            ],
+            "transporte": "Trem (Bolonha → Firenze)"
+          },
+          {
+            "data": "25/04/2025",
+            "cidade": "Firenze",
+            "atividades": [
+              "The Mall Outlet",
+              "Piazza del Duomo",
+              "Mercato di San Lorenzo"
+            ],
+            "restaurantes": [
+              "Trattoria 13 Gobbi"
+            ],
+            "transporte": "Ônibus/táxi para o outlet"
+          },
+          {
+            "data": "26/04/2025",
+            "cidade": "Firenze",
+            "atividades": [
+              "Piazza del Duomo",
+              "Mercato Centrale",
+              "Bairro Santo Spirito"
+            ],
+            "restaurantes": [
+              "Trattoria Sostanza",
+              "Trattoria da Burde",
+              "Buca Lapi"
+            ],
+            "transporte": "Caminhada"
+          },
+          {
+            "data": "27/04/2025",
+            "cidade": "Firenze - Toscana",
+            "atividades": [
+              "Retirada do carro às 10h",
+              "Piazza del Campo (Siena)",
+              "Duomo di Siena"
+            ],
+            "restaurantes": [
+              "Ristorante La Taverna di San Giuseppe",
+              "Osteria Le Logge"
+            ],
+            "transporte": "Carro alugado"
+          },
+          {
+            "data": "28/04/2025",
+            "cidade": "Toscana",
+            "atividades": [
+              "Região vinícola de Chianti",
+              "Castello di Brolio",
+              "Greve in Chianti",
+              "Panzano"
+            ],
+            "restaurantes": [
+              "Ristorante Castello di Brolio",
+              "Ristorante Il Vescovino"
+            ],
+            "transporte": "Carro alugado"
+          },
+          {
+            "data": "29/04/2025",
+            "cidade": "Toscana",
+            "atividades": [
+              "Pisa (Torre inclinada)",
+              "San Gimignano",
+              "Volterra"
+            ],
+            "restaurantes": [
+              "Ristorante Dorando",
+              "Osteria dei Poeti"
+            ],
+            "transporte": "Carro alugado"
+          },
+          {
+            "data": "30/04/2025",
+            "cidade": "Toscana - Roma",
+            "atividades": [
+              "Orvieto (Duomo)",
+              "Devolução do carro às 18h",
+              "Bairro Trastevere"
+            ],
+            "restaurantes": [
+              "Ristorante Al Pozzo Etrusco"
+            ],
+            "transporte": "Carro alugado (até 18h) + táxi"
+          },
+          {
+            "data": "01/05/2025",
+            "cidade": "Roma",
+            "atividades": [
+              "Coliseu (visita guiada às 10:30)",
+              "Forum Romano",
+              "Piazza di Spagna",
+              "Fontana de Trevi",
+              "Panteão"
+            ],
+            "restaurantes": [
+              "La Carbonara",
+              "Il Vero Alfredo"
+            ],
+            "transporte": "Caminhada/táxi"
+          },
+          {
+            "data": "02/05/2025",
+            "cidade": "Roma",
+            "atividades": [
+              "Vaticano (Museus Vaticanos às 10:45)",
+              "Capela Sistina",
+              "Basílica de São Pedro",
+              "Piazza Navona"
+            ],
+            "restaurantes": [
+              "Osteria da Fortunata",
+              "La Campana",
+              "Ditirambo",
+              "Trattoria da Enzo",
+              "Luciano Cucina Italiana",
+              "Venchi (gelato)"
+            ],
+            "transporte": "Caminhada/táxi"
+          },
+          {
+            "data": "03/05/2025",
+            "cidade": "Roma - São Paulo",
+            "atividades": [
+              "Voo de retorno às 18h",
+              "Transfer para aeroporto às 15h"
+            ],
+            "restaurantes": [],
+            "transporte": "Voo internacional"
+          }
+        ]
+      }
+    }
+  }

@@ -54,6 +54,17 @@
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/sos",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/sos/sos.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/sos/sos.zip"
+        },
+        {
+            "internalName": "Your Viagens",
+            "name": "Your Viagens",
+            "description": "Aplicação desenvolvida para estudo de um caso real aplicado de RAG para uma agência de viagem. Diferentes métodos de consulta vetorial foram testados, o projeto mostra as estratégias e discussão sobre o assunto ",
+            "author": "Caio Oliveira",
+            "version": "24.1.0",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/your_viagens/your.jpg",
+            "url": "https://github.com/caiogusto2/oracleapex/tree/main/your_viagens",
+            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/your_viagens/your.sql",
+            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/your_viagens/your.zip"
         }                
     ]
 }
