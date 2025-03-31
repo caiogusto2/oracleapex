@@ -1,17 +1,13 @@
-## **App: SOS APP**
-**Descrição:** Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergenciais online. A aplicação também exemplifica o self checkin para aplicações apex
+## **App: Your Viagens**
+**Descrição:** Aplicação desenvolvida para estudo de um caso real aplicado de RAG para uma agência de viagem. Diferentes métodos de consulta vetorial foram testados, o projeto mostra as estratégias e discussão sobre o assunto
 
-**Autor:** Caio Oliveira, Isabelle Anjos, Julia Sant'Anna e Nikolly Amancio  
+**Autor:** Caio Oliveira  
 
 ---
 
 ### **Procedimento Adicionais de Instalação**
 
 **Configurar Web Credential**: No APEX, vá para "Workspace Utilities" e configure a web credential chamada apex_ai_cred com suas credenciais OCI.
-
-**Criação de schedulers**: Após instalação da aplicação no APEX, conecte-se via SQL Developer ou SQL PLUS e faça a criação dos , schedulers, NÃO RODE a criação dos scheduler dentro do APEX no SQL Workshop. Os schedulers a serem criados são CREATE_APEX_JOB e RESET_APEX_JOB e os mesmos se encontram nos arquivos de instalação de objetos de banco (comentados)
-
-**Configuração SMTP**: Durante o self registration temos o botão de reset de senha. O qual irá validar se o usuário existe na base, enviar um email com um código de validação e reset de senha (da conta apex). O setup do smtp é feito dentro do workspace internal. No OCI usamos o email delivery e adicionamos o sender na guia approved senders (os emails serão enviados para lixeira, dado que outros setups são necessários como por exemplo registro do domínio)
 
 ---
 
