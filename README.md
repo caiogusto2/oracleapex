@@ -48,34 +48,34 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 **Descrição:** Aplicação Desenvolvida para Controle de Inscrições Hands On em Eventos de Marketing  
 
 **Autor:** Caio Oliveira  
-Link: [https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS](https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS)
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS](https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS)
 
 #### _App: Dataset Público Marinha - Oracle DB Convergente_
 **Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai. Oracle Machine Learning (OML), Spatial and Graphs, Vector Search, JSON on Oracle DB, etc
 
 **Autor:** Caio Oliveira  
-Link: [https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha](https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha)
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha](https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha)
 
 #### _App: Oracle 23ai Vector Search_
 **Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai sem a parte de convergência. `Aplicação desenvolvida para rodar no APEX 24.2` 
 
 **Autor:** Caio Oliveira  
-Link: [https://github.com/caiogusto2/oracleapex/tree/main/23aivectorsearch](https://github.com/caiogusto2/oracleapex/tree/main/23aivectorsearch)
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/23aivectorsearch](https://github.com/caiogusto2/oracleapex/tree/main/23aivectorsearch)
 
 #### _App: CMS - OCI_
 **Descrição:** Aplicação desenvolvida para exemplificar o uso do APEX + Object storage como ferramenta de controle e gestão de arquivos. 
 
 **Autor:** Caio Oliveira  
-Link: [https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI](https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI)
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI](https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI)
 
 #### _App: SOS APP_
 **Descrição:** Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergenciais online. A aplicação também exemplifica o self checkin para aplicações apex 
 
 **Autor:** Caio Oliveira, Isabelle Anjos, Julia Sant'Anna e Nikolly Amancio
-Link: [https://github.com/caiogusto2/oracleapex/tree/main/sos](https://github.com/caiogusto2/oracleapex/tree/main/sos)
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/sos](https://github.com/caiogusto2/oracleapex/tree/main/sos)
 
 #### _App: Your Viagens_
 **Descrição:** Aplicação desenvolvida para estudo de um caso real aplicado de RAG para uma agência de viagem. Diferentes métodos de consulta vetorial foram testados, o projeto mostra as estratégias e discussão sobre o assunto 
 
 **Autor:** Caio Oliveira
-Link: [https://github.com/caiogusto2/oracleapex/tree/main/your_viagens](https://github.com/caiogusto2/oracleapex/tree/main/your_viagens)
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/your_viagens](https://github.com/caiogusto2/oracleapex/tree/main/your_viagens)
