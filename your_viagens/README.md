@@ -32,7 +32,7 @@ A criação do username e senha será efetuado pela Agência, tendo em mãos as 
 * **1ª etapa** - A primeira etapa de configuração é criar uma viagem: clique no icone ou aba correspondente, clique em adicionar viagem, e faça o preechimento das informações da viagem. Tente colocar um nome que esteja relacionado aos usuários que estaram na mesma e uma associação de data; Exemplo: Viagem Italia Tais e Familia 04/25. Nesse primeiro momento não temos usuários, logo pode deixar a sessão quem irá viajar em branco 
 * **2ª etapa** - A segunda etapa de configuração é fazer o upload dos documentos, clique na aba arquivos, clique em carregar arquivo, selecione a viagem, marque Arquivo p/ uso de AI? e faça o upload dos documentos (afim de garantir maior acertividade para AI, para cada viagem recomendamos que façam o upload de dois arquivos: roteiro.pdf - arquivo que a Lau ja manda por padrão; roteiro.json - arquivo que aconselhamos que seja criado no deepseek usando o seguinte prompt)
 
-```sql
+```
 com base no texto, crie um arquivo json com informações resumidas conforme estrutura - sempre coloque horários de meios e transporte forneça os restaurantes citados no texto e pontos de vizitação, coloque todos os dias da viagem no formato dd/mm/yyyy sem saltar nenhum
 '"viagem": {"participantes": [],"periodo": "","destino": "","cidades": [],"roteiro": {"pre_viagem": {"documentos": [],"eletronicos": [],"seguranca": [],"apps": []},"diario": [{"data": "","cidade": "", "atividades": [], "restaurantes": []}]}}' 
 
