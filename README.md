@@ -69,13 +69,13 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI](https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI)
 
 #### _App: SOS APP_
-**Descrição:** Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergenciais online. A aplicação também exemplifica o self checkin para aplicações apex 
+**Descrição:** Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergenciais online. A aplicação também exemplifica o self checkin para aplicações apex  
 
-**Autor:** Caio Oliveira, Isabelle Anjos, Julia Sant'Anna e Nikolly Amancio
+**Autor:** Caio Oliveira, Isabelle Anjos, Julia Sant'Anna e Nikolly Amancio  
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/sos](https://github.com/caiogusto2/oracleapex/tree/main/sos)
 
 #### _App: Your Viagens_
-**Descrição:** Aplicação desenvolvida para estudo de um caso real aplicado de RAG para uma agência de viagem. Diferentes métodos de consulta vetorial foram testados, o projeto mostra as estratégias e discussão sobre o assunto 
+**Descrição:** Aplicação desenvolvida para estudo de um caso real aplicado de RAG para uma agência de viagem. Diferentes métodos de consulta vetorial foram testados, o projeto mostra as estratégias e discussão sobre o assunto  
 
-**Autor:** Caio Oliveira
+**Autor:** Caio Oliveira  
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/your_viagens](https://github.com/caiogusto2/oracleapex/tree/main/your_viagens)
