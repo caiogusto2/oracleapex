@@ -13,7 +13,7 @@
 
 **Configurar Vector Provider**: No APEX, vá para "Workspace Utilities" e configure os vector providers, infloat e cohere com suas credenciais OCI.
 
-**Configurar SODA Collections**: Habilitar MongoDB API no autonomous, importar SODA collections, comandos abaixo
+**Configurar SODA Collections**: Habilitar MongoDB API no autonomous (DB não pode estar aberto 100% para internet), importar SODA collections, comandos abaixo
 
 ```
 files=(
