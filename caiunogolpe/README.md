@@ -13,7 +13,11 @@
 
 **Configurar chatbot AI**: script para popular tabela esta no final dos supporting objects
 
-**Notebook OML**: importar notebook e executar o mesmo para criar a tabela de fraudes
+**Notebook OML**: importar notebook e executar o mesmo para criar a tabela de fraudes - URL download notebook
+
+```
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/fxGOdUcjASzXTNqya9srbbGCD9-c8YizwF1xfTQq-fdVtdT3yFBmGhCbhh-3HoC4/n/grplsopryjgk/b/demo23ai/o/anomalia-mp.dsnb
+```
 
 ### **Como Utilizar essa Aplicação**
 
