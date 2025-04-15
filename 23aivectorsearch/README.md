@@ -1,5 +1,5 @@
 ## **App: Oracle 23ai Vector Search**
-**Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai sem a parte de convergência. `Aplicação desenvolvida para rodar no APEX 24.2`
+**Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai. `Aplicação desenvolvida para rodar no APEX 24.2`
 
 **Autor:** Caio Oliveira  
 
