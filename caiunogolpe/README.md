@@ -1,0 +1,28 @@
+## **App: Caiu no Golpe**
+**Descrição:** Aplicação desenvolvida para demonstração de como realizar uma investigação através do uso de grafos. Duas bases fictícias são utilizadas: financeira; e midias sociais;
+
+**Autor:** Caio Oliveira  
+
+---
+
+### **Procedimento Adicionais de Instalação**
+
+**Configurar Web Credential**: No APEX, vá para "Workspace Utilities" e configure a web credential chamada apex_ai_cred com suas credenciais OCI.
+
+**Configurar Vector Provider**: No APEX, vá para "Workspace Utilities" e configure os vector providers, infloat e cohere com suas credenciais OCI.
+
+**Configurar chatbot AI**: script para popular tabela esta no final dos supporting objects
+
+**Notebook OML**: importar notebook e executar o mesmo para criar a tabela de fraudes
+
+### **Como Utilizar essa Aplicação**
+
+A aplicação contém 3 guias:
+
+**1. Monitoramento:** Mostra alertas de transações potencialmente fraudulentas e posts/comentários que tenham certas palavras auditadas
+
+**2. Avaliação Usuário:** A partir do CPF, conseguimos ver o cadastro do usuário em ambas bases, validar as últimas transações financeiras, sua rede de relacionamento nas mídias sociais, assim como atividades
+
+**3. Cruzamento Bases:** Guia que tem o objetivo de analisar o relacionamento de vários CPFs, tanto nas redes sociais (quem segue quem), assim como na base financeira (quem transfere pra quem)
+
+**4. Cruzamento Bases:** chatbot para consulta de informações dos usuários

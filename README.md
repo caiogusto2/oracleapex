@@ -79,3 +79,9 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 
 **Autor:** Caio Oliveira  
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/your_viagens](https://github.com/caiogusto2/oracleapex/tree/main/your_viagens)
+
+#### _App: Caiu no Golpe_
+**Descrição:** Aplicação desenvolvida para demonstração de como realizar uma investigação através do uso de grafos. Duas bases fictícias são utilizadas: financeira; e midias sociais;  
+
+**Autor:** Caio Oliveira  
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/caiunogolpe](https://github.com/caiogusto2/oracleapex/tree/main/caiunogolpe)
