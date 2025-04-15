@@ -85,3 +85,9 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 
 **Autor:** Caio Oliveira  
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/caiunogolpe](https://github.com/caiogusto2/oracleapex/tree/main/caiunogolpe)
+
+#### _App: Controle Investimentos_
+**Descrição:** Aplicação desenvolvida para controle de investimentos em CDBs;  
+
+**Autor:** Caio Oliveira  
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/investimentos](https://github.com/caiogusto2/oracleapex/tree/main/investimentos)
