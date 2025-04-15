@@ -21,7 +21,7 @@ https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/fxGOdUcjASzXTNqya9srbbGCD9
 
 ### **Como Utilizar essa Aplicação**
 
-A aplicação contém 3 guias:
+A aplicação contém 4 guias:
 
 **1. Monitoramento:** Mostra alertas de transações potencialmente fraudulentas e posts/comentários que tenham certas palavras auditadas
 
