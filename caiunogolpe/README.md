@@ -19,6 +19,13 @@
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/fxGOdUcjASzXTNqya9srbbGCD9-c8YizwF1xfTQq-fdVtdT3yFBmGhCbhh-3HoC4/n/grplsopryjgk/b/demo23ai/o/anomalia-mp.dsnb
 ```
 
+**Notebook GraphStudio**: importar notebook e executar o mesmo para criar grafos adicionais - URL download notebook
+
+```
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/df9Gz3lZR62Jw1vqwzpNKU-iIWlRcA2ACpp8H4idwd66lyer3Ng0HGklqQebtZs6/n/grplsopryjgk/b/demo23ai/o/Redes%20Criminosas%20-%20Dados%20Banc%C3%A1rios.dsnb
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/Z74-gdUPyj9I-1_pRmXkVEqirR7QOhPDkEjh1QU5V2ZpSmCZow4t9e8fb36n-NIx/n/grplsopryjgk/b/demo23ai/o/Redes%20Criminosas%20-%20Redes%20sociais.dsnb
+```
+
 ### **Como Utilizar essa Aplicação**
 
 A aplicação contém 4 guias:
