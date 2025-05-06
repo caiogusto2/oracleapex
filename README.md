@@ -91,3 +91,9 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 
 **Autor:** Caio Oliveira  
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/investimentos](https://github.com/caiogusto2/oracleapex/tree/main/investimentos)
+
+#### _App: Oracle 23ai Vector Search - Imagem_
+**Descrição:** Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai. Consulta vetorial em banco de imagens  
+
+**Autor:** Caio Oliveira  
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/23aivectorimg](https://github.com/caiogusto2/oracleapex/tree/main/23aivectorimg)
