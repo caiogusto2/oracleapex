@@ -87,17 +87,6 @@
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/investimentos",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/investimentos/invest.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/investimentos/invest.zip"
-        },
-        {
-            "internalName": "Oracle 23ai Vector Search - Imagem",
-            "name": "Oracle 23ai - Vector Search - Imagem",
-            "description": "Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai sem a parte de convergência. Execução de consulta vetorial em IMAGENS",
-            "author": "Caio Oliveira",
-            "version": "24.1.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorimg/vectorimg.jpg",
-            "url": "https://github.com/caiogusto2/oracleapex/tree/main/23aivectorimg",
-            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorimg/vectorimg.sql",
-            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorimg/vectorimg.zip"
         }                         
     ]
 }
