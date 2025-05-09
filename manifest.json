@@ -6,7 +6,7 @@
             "description": "Aplicação Desenvolvida para Controle de Inscrições Hands On em Eventos de Marketing",
             "author": "Caio Oliveira",
             "version": "24.2.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/ControleInscricaoWS/app-icon-512.png",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/ControleInscricaoWS/app-icon-512.svg",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/ControleInscricaoWS",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/ControleInscricaoWS/export_completo.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/ControleInscricaoWS/export_completo.zip"
@@ -17,7 +17,7 @@
             "description": "Aplicação Desenvolvida para demonstração de recursos e features de convergencia do Banco de Dados Oracle 23ai. Utilizando um dataset público da marinha fazemos a demostração de uso do OML4SQL, APEX, VectorSearch, Grafos e Spatial",
             "author": "Caio Oliveira",
             "version": "24.2.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/dbconvergente_marinha/app-icon-512.png",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/dbconvergente_marinha/marinha.svg",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/dbconvergente_marinha",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/dbconvergente_marinha/marinha.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/dbconvergente_marinha/marinha.zip"
@@ -28,7 +28,7 @@
             "description": "Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai sem a parte de convergência. Aplicação desenvolvida para rodar no APEX 24.2",
             "author": "Caio Oliveira",
             "version": "24.2.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorsearch/23ai.png",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorsearch/23ai.svg",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/23aivectorsearch",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorsearch/23aivector.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorsearch/23aivector.zip"
@@ -39,7 +39,7 @@
             "description": "Aplicação desenvolvida para exemplificar o uso do APEX + Object storage como ferramenta de controle e gestão de arquivos",
             "author": "Caio Oliveira",
             "version": "24.2.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/CMS_OCI/app-icon-512.png",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/CMS_OCI/cms.svg",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/CMS_OCI/cms_oci.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/CMS_OCI/cms_oci.zip"
@@ -50,7 +50,7 @@
             "description": "Aplicação desenvolvida para innovation camp 2025 com o objetivo de criar um app de boletim e ocorrências emergenciais online. A aplicação também exemplifica o self checkin para aplicações apex",
             "author": "Caio Oliveira",
             "version": "24.2.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/sos/sos.png",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/sos/sos.svg",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/sos",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/sos/sos.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/sos/sos.zip"
@@ -61,7 +61,7 @@
             "description": "Aplicação desenvolvida para estudo de um caso real aplicado de RAG para uma agência de viagem. Diferentes métodos de consulta vetorial foram testados, o projeto mostra as estratégias e discussão sobre o assunto ",
             "author": "Caio Oliveira",
             "version": "24.2.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/your_viagens/your.jpg",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/your_viagens/your.svg",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/your_viagens",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/your_viagens/your.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/your_viagens/your.zip"
@@ -72,7 +72,7 @@
             "description": "Aplicação desenvolvida para demonstração de como realizar uma investigação através do uso de grafos. Duas bases fictícias são utilizadas: financeira; e midias sociais;",
             "author": "Caio Oliveira",
             "version": "24.2.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/caiunogolpe/golpe.png",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/caiunogolpe/golpe.svg",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/caiunogolpe",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/caiunogolpe/golpe.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/caiunogolpe/golpe.zip"
@@ -83,7 +83,7 @@
             "description": "Aplicação pessoal para controle de CDBs",
             "author": "Caio Oliveira",
             "version": "24.2.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/investimentos/invest.png",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/investimentos/invest.svg",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/investimentos",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/investimentos/invest.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/investimentos/invest.zip"
@@ -94,7 +94,7 @@
             "description": "Aplicação Desenvolvida para demonstração de recursos e features do Banco de Dados Oracle 23ai sem a parte de convergência. Execução de consulta vetorial em IMAGENS",
             "author": "Caio Oliveira",
             "version": "24.2.0",
-            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorimg/vectorimg.jpg",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorimg/vectorimg.svg",
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/23aivectorimg",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorimg/vectorimg.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorimg/vectorimg.zip"
