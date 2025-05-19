@@ -98,6 +98,17 @@
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/23aivectorimg",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorimg/vectorimg.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/23aivectorimg/vectorimg.zip"
-        }                         
+        },
+        {
+            "internalName": "Oracle Speech2Text",
+            "name": "Oracle Speech2Text",
+            "description": "Aplicação desenvolvida para exemplificar o uso do APEX + Object storage como ferramenta de controle e gestão de videos, além de utilizar o Oracle Speech2Text para transcrição do conteúdo de audio do video",
+            "author": "Caio Oliveira, Gabriela Miyazima e Isabelle Anjos",
+            "version": "24.2.0",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/speech2text/speech.jpg",
+            "url": "https://github.com/caiogusto2/oracleapex/tree/main/speech2text",
+            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/speech2text/speech.sql",
+            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/speech2text/speech.zip"
+        }                          
     ]
 }

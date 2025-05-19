@@ -97,3 +97,9 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 
 **Autor:** Caio Oliveira  
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/23aivectorimg](https://github.com/caiogusto2/oracleapex/tree/main/23aivectorimg)
+
+#### _App: Speech2Text_
+**Descrição:** Aplicação desenvolvida para exemplificar o uso do APEX + Object storage como ferramenta de controle e gestão de videos, além de utilizar o Oracle Speech2Text para transcrição do conteúdo de audio do video  
+
+**Autor:** Caio Oliveira, Gabriela Miyazima e Isabelle Anjos  
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/speech2text](https://github.com/caiogusto2/oracleapex/tree/main/speech2text)
