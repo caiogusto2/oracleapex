@@ -53,7 +53,7 @@ end;
 <br>
 <br>
 
-**3) Substituição de valores de variáveis na aplicação**: Após a instalação da aplicação via custom apps/gallery; Clique no app builder > edit application definition e siga para a sessão substitutions. Faça a alteração da variável LOCATION_URI e LOCATION_URI_OUTPUT para a string coletada na etapa Criação de Bucket - Object Storage OCI
+**3) Substituição de valores de variáveis na aplicação**: Após a instalação da aplicação via custom apps/gallery; Clique no app builder > edit application definition e siga para a sessão substitutions. Faça a alteração das variáveis LOCATION_URI e LOCATION_URI_OUTPUT, NOME_BUCKET_INPUT e NAMESPACE para a string coletada na etapa Criação de Bucket - Object Storage OCI
 
 ![cms_imagem07](https://github.com/caiogusto2/oracleapex/blob/6296deedb2e1a03058904e7cc670422e9592b49b/CMS_OCI/imagens/cms_img07.png)
 
