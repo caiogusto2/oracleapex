@@ -104,3 +104,9 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 
 **Autor:** Caio Oliveira, Gabriela Miyazima e Isabelle Anjos  
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/speech2text](https://github.com/caiogusto2/oracleapex/tree/main/speech2text)
+
+#### _App: Data Catalog_
+**Descrição:** Aplicação desenvolvida para exemplificar o uso do APEX junto do pilar de data engineering. Catálogo de dados contendo datasets/datamarts importados para o ADB em que a aplicação apex esta rodando.   
+
+**Autor:** Caio Oliveira  
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/DataCatalog](https://github.com/caiogusto2/oracleapex/tree/main/DataCatalog)
