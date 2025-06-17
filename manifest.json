@@ -120,6 +120,17 @@
             "url": "https://github.com/caiogusto2/oracleapex/tree/main/DataCatalog",
             "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/DataCatalog/datacatalog.sql",
             "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/DataCatalog/datacatalog.zip"
-        }                                  
+        },
+        {
+            "internalName": "Data Marketplace",
+            "name": "Data Marketplace",
+            "description": "Aplicação desenvolvida para exemplificar o uso do APEX junto do pilar de data engineering. Catálogo de dados contendo datasets/arquivos disponibilizados em object storage",
+            "author": "Caio Oliveira",
+            "version": "24.2.0",
+            "icon": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/datamarket/datamarket.png",
+            "url": "https://github.com/caiogusto2/oracleapex/tree/main/datamarket",
+            "source": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/datamarket/datamarket.sql",
+            "zip": "https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/datamarket/datamarket.zip"
+        }                                        
     ]
 }

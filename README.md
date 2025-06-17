@@ -110,3 +110,9 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 
 **Autor:** Caio Oliveira  
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/DataCatalog](https://github.com/caiogusto2/oracleapex/tree/main/DataCatalog)
+
+#### _App: Data Marketplace_
+**Descrição:** Aplicação desenvolvida para exemplificar o uso do APEX junto do pilar de data engineering. Catálogo de dados contendo datasets/arquivos disponibilizados em object storage.   
+
+**Autor:** Caio Oliveira  
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/datamarket](https://github.com/caiogusto2/oracleapex/tree/main/datamarket)
