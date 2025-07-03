@@ -116,3 +116,9 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 
 **Autor:** Caio Oliveira  
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/datamarket](https://github.com/caiogusto2/oracleapex/tree/main/datamarket)
+
+#### _App: Select AI_
+**Descrição:** Aplicação desenvolvida para exemplificar o uso do Select AI.   
+
+**Autor:** Oracle - https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3831&p210_wec=&session=5732094729224  
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/SelectAI](https://github.com/caiogusto2/oracleapex/tree/main/SelectAI)
