@@ -31,7 +31,7 @@ dbms_cloud_ai.drop_profile(
       profile_name =>'genai',                                                             
       attributes   =>'{"provider": "oci",                                                                   
         "credential_name": "OBJ_STORE_CRED",
-		"object_list": [{"owner": "<SCHEMA>"}],
+		"object_list": [{"owner": "<SCHEMA>","name": "<TABLE>"}],
         "oci_compartment_id": "<COMPARTMENT_OCID>"
        }');                                                                  
 END;                                                                         
