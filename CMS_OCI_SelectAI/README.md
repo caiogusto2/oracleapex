@@ -122,3 +122,5 @@ end;
 A aplicação foi inicialmente concebida para upload de arquivos tendo a validação de não deixar documentos com o mesmo nome coexisirem
 
 Uma vez que o upload do arquivo tenha sido concluido, temos a listagem do mesmo na tela e os botões de download e delete apresentados
+
+**2. Consulta de Documentos:** Clicando no icone + temos acesso a console do select ai, onde podemos fazer consultas livres e teremos o output apresentado na tela... Um RAG 100% executado por select ai consultando os documentos no object storage
