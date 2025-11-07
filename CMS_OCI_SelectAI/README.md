@@ -9,9 +9,9 @@
 
 **1) Criação de Bucket - Object Storage OCI**: Na sua conta OCI faça a criação de um bucket standard na região de sua escolha. Dentro desse bucket é onde os dados irão residir. 
 
-![cms_imagem01](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI_SelectAI/imagens/cms_img01.png)
+![cms_imagem01](https://github.com/caiogusto2/oracleapex/blob/cfbaf3ab719ef33a9a0ba0dea031baee507264b3/CMS_OCI_SelectAI/imagens/cms_img01.png)
 
-![cms_imagem02](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI_SelectAI/imagens/cms_img02.png)
+![cms_imagem02](https://github.com/caiogusto2/oracleapex/blob/cfbaf3ab719ef33a9a0ba0dea031baee507264b3/CMS_OCI_SelectAI/imagens/cms_img02.png)
 
 
 Nesse bucket faça o upload de um arquivo qualquer e colete a URL gerada. Ela estará no seguinte formato: 
@@ -22,9 +22,9 @@ https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<
 ```
 
 
-![cms_imagem03](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI_SelectAI/imagens/cms_img03.png)
+![cms_imagem03](https://github.com/caiogusto2/oracleapex/blob/cfbaf3ab719ef33a9a0ba0dea031baee507264b3/CMS_OCI_SelectAI/imagens/cms_img03.png)
 
-![cms_imagem04](https://github.com/caiogusto2/oracleapex/blob/81ef09e3a9c3e09e74f4d996839b972bc6c82832/CMS_OCI_SelectAI/imagens/cms_img04.png)
+![cms_imagem04](https://github.com/caiogusto2/oracleapex/blob/cfbaf3ab719ef33a9a0ba0dea031baee507264b3/CMS_OCI_SelectAI/imagens/cms_img04.png)
 
 <br>
 <br>
@@ -33,9 +33,9 @@ https://objectstorage.<REGIÃO>.oraclecloud.com/n/<OBJECTSTORAGE_ID_TENANCY>/b/<
 
 **2) Criação de credencial de autenticação com Object Storage OCI**: A aplicação de CMS utilizará um Autentication Token para comunicação com o OCI. Crie um Autentication Token na GUI OCI e execute o seguinte comando no sql workshop > sql commands no Oracle APEX
 
-![cms_imagem05](https://github.com/caiogusto2/oracleapex/blob/b62dd3da5fb934825a23dd17e243944644db5e2f/CMS_OCI_SelectAI/imagens/cms_img05.png)
+![cms_imagem05](https://github.com/caiogusto2/oracleapex/blob/cfbaf3ab719ef33a9a0ba0dea031baee507264b3/CMS_OCI_SelectAI/imagens/cms_img05.png)
 
-![cms_imagem06](https://github.com/caiogusto2/oracleapex/blob/b62dd3da5fb934825a23dd17e243944644db5e2f/CMS_OCI_SelectAI/imagens/cms_img06.png)
+![cms_imagem06](https://github.com/caiogusto2/oracleapex/blob/cfbaf3ab719ef33a9a0ba0dea031baee507264b3/CMS_OCI_SelectAI/imagens/cms_img06.png)
 
 ```
 begin
@@ -55,9 +55,9 @@ end;
 
 **3) Substituição de valores de variáveis na aplicação**: Após a instalação da aplicação via custom apps/gallery; Clique no app builder > edit application definition e siga para a sessão substitutions. Faça a alteração da variável LOCATION_URI para a string coletada na etapa Criação de Bucket - Object Storage OCI
 
-![cms_imagem07](https://github.com/caiogusto2/oracleapex/blob/6296deedb2e1a03058904e7cc670422e9592b49b/CMS_OCI_SelectAI/imagens/cms_img07.png)
+![cms_imagem07](https://github.com/caiogusto2/oracleapex/blob/cfbaf3ab719ef33a9a0ba0dea031baee507264b3/CMS_OCI_SelectAI/imagens/cms_img07.png)
 
-![cms_imagem08](https://github.com/caiogusto2/oracleapex/blob/6296deedb2e1a03058904e7cc670422e9592b49b/CMS_OCI_SelectAI/imagens/cms_img08.png)
+![cms_imagem08](https://github.com/caiogusto2/oracleapex/blob/cfbaf3ab719ef33a9a0ba0dea031baee507264b3/CMS_OCI_SelectAI/imagens/cms_img08.png)
 
 <br>
 <br>
