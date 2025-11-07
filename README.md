@@ -123,3 +123,9 @@ https://raw.githubusercontent.com/caiogusto2/oracleapex/refs/heads/main/manifest
 
 **Autor:** Oracle - https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3831&p210_wec=&session=5732094729224  
 **Link:** [https://github.com/caiogusto2/oracleapex/tree/main/SelectAI](https://github.com/caiogusto2/oracleapex/tree/main/SelectAI)
+
+#### _App: CMS - OCI + Select AI_
+**Descrição:** Aplicação desenvolvida para exemplificar o uso do APEX + Object storage como ferramenta de controle e gestão de arquivos + funcionalidade de select AI com RAG
+
+**Autor:** Caio Oliveira  
+**Link:** [https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI_SelectAI](https://github.com/caiogusto2/oracleapex/tree/main/CMS_OCI_SelectAI)
